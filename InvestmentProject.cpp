@@ -190,7 +190,7 @@ string assetChoice(string asset) {
     bool check = false;
     do {
         check = false;
-        cout << "Enter asset: ";
+        cout << "Enter asset name: ";
         cin >> asset;
         if (cin.fail()) {
             cout << "Invalid entry, try again" << endl;
