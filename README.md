@@ -1,7 +1,5 @@
 # Personal-Project-G-L-Calculator in C++
-Ryan Ramirez - RLRamirez4812@gmail.com
-UNLV Student
-Created 10/16/2021
+Ryan Ramirez - RLRamirez4812@gmail.com - UNLV Student
 
 Calculator to calculate unrealized gains or losses in % and $ form. 
 
