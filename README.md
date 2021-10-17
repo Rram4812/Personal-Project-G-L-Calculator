@@ -5,7 +5,7 @@ Calculator to calculate unrealized gains or losses in % and $ form.
 
 The problem: 
 
-  Purchasing crypto currency through Coinbase is a very user-friendly and fast way to own different crypto currincies.
+  Purchasing crypto currency through Coinbase is a very user-friendly and fast way to own different coins.
 As an investor its important to keep track of unrealized and realized gains/losses, to have as much information on an investment
 is key in making trading decisions (to buy, to sell, or to hold). 
 
