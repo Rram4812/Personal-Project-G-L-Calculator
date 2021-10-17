@@ -1,4 +1,4 @@
-# Personal-Project-G-L-Calculator
+# Personal-Project-G-L-Calculator in C++
 Calculator to calculate unrealized gains or losses in % and $ form. 
 
 The problem: 
