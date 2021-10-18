@@ -1,0 +1,19 @@
+CC = g++
+CFLAGS= -Wall -Wextra -pedantic -std=c++11 -g
+#DEPS =
+OBJS = InvestmentProject.o
+OUT = InvestmentProject
+
+all: $(OUT)
+
+%.o: %.cpp #$(DEPS)
+	$(CC) -c -o $@ $< $(CFLAGS) 
+
+$(OUT): $(OBJS)
+	$(CC) -o $@ $^ $(CFLAGS)
+
+.PHONY: clean
+
+clean:
+	rm $(OBJS) $(OUT)
+	
