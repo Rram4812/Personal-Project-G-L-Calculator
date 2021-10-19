@@ -27,7 +27,6 @@ int main() {
     double holdings = 0;
     double percentChange = 0;
     string asset;
-    bool loop;
     repromptOnLoop(percentChange, initialInvestment, cmv, holdings, asset);
 }
 /*
